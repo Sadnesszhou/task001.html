@@ -1,0 +1,78 @@
+body{
+	margin: 0px;
+}
+.box{
+	text-align: center;
+}
+.wrap1{
+	 float: left;
+	 background-color: orange;
+	 margin:1%;
+	 border-radius: 15px;
+	 padding-left:28%;
+	 padding-bottom: 28%;
+}
+.wrap2{
+	float: left;
+	background-color: orange;
+	margin:1%;
+	border-radius: 15px;
+	padding-left:28%;
+	 padding-bottom: 28%;
+}
+.wrap3{
+	float: left;
+	background-color: orange;
+	margin:1%;
+	border-radius: 15px;
+	padding-left:28%;
+	padding-bottom: 28%;
+}
+.wrap4{
+	background-color: orange;
+	margin:1%;;
+	float: left;
+	border-radius: 15px;
+	padding-left:28%;
+	padding-bottom: 28%;
+}
+.wrap5{
+	background-color: orange;
+	margin:1%;
+	float: left;
+	border-radius: 15px;
+	padding-left:28%;
+	 padding-bottom: 28%;
+}
+.wrap6{
+	background-color: orange;
+	margin:1%;
+	float: left;
+	border-radius: 15px;
+	padding-left:28%;
+	 padding-bottom: 28%;
+}
+.wrap7{
+	background-color: orange;
+    margin:1%;
+	float: left;
+	border-radius: 15px;
+	padding-left:28%;
+	padding-bottom: 28%;
+}
+.wrap8{
+	background-color: orange;
+    margin:1%;
+	float: left;
+	border-radius: 15px;
+	padding-left:28%;
+	 padding-bottom: 28%;
+}
+.wrap9{
+	background-color: orange;
+	margin:1%;
+	float: left;
+	border-radius: 15px;
+	padding-left:28%;
+	 padding-bottom: 28%;
+}
